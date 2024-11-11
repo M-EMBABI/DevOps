@@ -6,6 +6,7 @@
     <title>Docker Assignment: Run and Manage an Nginx Container</title>
 </head>
 <body>
+
     <h1>Docker Assignment: Run and Manage an Nginx Container</h1>
 
     <h2>Objective</h2>
